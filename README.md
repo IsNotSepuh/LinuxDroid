@@ -24,5 +24,6 @@ You can install them using the following command:
 > python2 linuxdroid.py
 
 **APPEARANCE**
-╭──────( Root@Kali )-[ /home/user ]
-╰────$ 
+
+> ╭──────( Root@Kali )-[ /home/user ]
+> ╰────$ 
