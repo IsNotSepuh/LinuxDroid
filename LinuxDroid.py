@@ -1,16 +1,17 @@
 import os
-import sys
 import subprocess
 
-# Set Banner
+# Clear terminal
 os.system('clear')
-os.system('figlet -f slant "Kali Linux" | lolcat')
 
-# Info System
-subprocess.run(['neofetch'])
+# Set Banner
+subprocess.call('figlet -f slant "Kali Linux" | lolcat', shell=True)
 
-# Customize Terminal Prompt (this is specific to bash, but you can modify .bashrc if needed for permanence)
-os.environ['PS1'] = "\n╭──────( Root@Kali )-[ \w ]\n╰────$ "
+# Display system info
+subprocess.call('neofetch', shell=True)
 
-# Print Custom Message
-os.system('echo -e "\n\033[1;35m" + $(figlet -f small "MatrixMan") + "\033[0m"')
+# Custom Prompt (simulated as a message, since PS1 is not configurable in Python directly)
+print("\033[1;34m\n╭──────(\033[1;31m Root@Kali \033[1;34m)-[\033[1;32m \w \033[1;34m]\n╰────\033[1;36m$ \033[0m")
+
+# Display ASCII art
+subprocess.call('figlet -f small "MatrixMan"', shell=True)
