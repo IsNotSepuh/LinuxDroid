@@ -18,9 +18,12 @@ Before running the script, make sure you have the following installed:
 
 You can install them using the following command:
 > apt install python2 -y
+
 > apt install git -y
+
 > https://github.com/IsNotSepuh/LinuxDroid/
 > cd LinuxDroid
+
 > python2 linuxdroid.py
 
 **APPEARANCE**
