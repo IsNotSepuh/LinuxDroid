@@ -1,6 +1,6 @@
 # Kali Linux Terminal Customization
 
-Welcome to *LinuxDroid*! This project adds a little fun and customization to your Kali Linux terminal, transforming it into something out of the Matrix world.
+Welcome to *LinuxDroid*! This project adds a little fun and customization to your Kali Linux terminal, transforming it into something out of the Linux world.
 
 # Features
 
