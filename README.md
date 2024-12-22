@@ -17,6 +17,9 @@ Before running the script, make sure you have the following installed:
 - *lolcat* – To add some fun to the terminal output.
 
 You can install them using the following command:
+
+> apt update && apt upgrade -y
+
 > apt install python2 -y
 
 > apt install git -y
