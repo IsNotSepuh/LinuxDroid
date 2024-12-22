@@ -21,7 +21,8 @@ You can install them using the following command:
 
 > apt install git -y
 
-> https://github.com/IsNotSepuh/LinuxDroid/
+> gitclone https://github.com/IsNotSepuh/LinuxDroid
+
 > cd LinuxDroid
 
 > python2 linuxdroid.py
