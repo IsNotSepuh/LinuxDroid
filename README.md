@@ -2,12 +2,6 @@
 
 Welcome to *LinuxDroid*! This project adds a little fun and customization to your Kali Linux terminal, transforming it into something out of the Linux world.
 
-## Statistik Kunjungan
-
-[![Total Visits](https://visitor-badge.glitch.me/badge?page_id=IsNotSepuh.LinuxDroid)](https://github.com/IsNotSepuh/LinuxDroid)
-
-Tombol di atas akan menunjukkan jumlah kunjungan ke repositori ini.
-
 # Features
 
 - *Themed Banner:* A cool text-based banner that welcomes you to the Matrix.
